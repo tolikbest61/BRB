@@ -1,6 +1,10 @@
-## Enhancements:
+## Основні зміни:
 
-* [file-saver](https://npmjs.org/package/file-saver) − create download file dialog in browser.
-* [write](https://npmjs.org/package/write) − write file in node, create directories if none.
-* [to-array-buffer](https://github.com/dfcreative/to-array-buffer) — turn anything into ArrayBuffer.
-* [simple-mime](https://npmjs.org/package/simple-mime) — tiny mime types detector.
+* Додано підтримку для 1С 8.3.
+* Реалізовано передачу серійного номера ТЗД при синхронізації ревізій.
+* Реалізовано синхронізацію повернень і переміщень.
+* Розширено логування помилок.
+
+## Сумістність:
+
+* BRB v.2.0.0.12 і вище
